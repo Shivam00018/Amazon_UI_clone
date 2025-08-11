@@ -3,7 +3,7 @@
 A responsive front-end clone of the Amazon website built using HTML and CSS.
 
 🌐 Live Demo:  
-➡️ **[Play Now]()**  
+➡️ **[Play Now]( https://shivam00018.github.io/Amazon_UI_clone/)**  
 
 
 ## Features
